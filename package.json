@@ -1,0 +1,24 @@
+{
+  "name": "dictionary-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Itamar Givon <itamar.givon.dev@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DigitalCareerInstitute/Node-OxFord-Dictionary",
+    "id": 202131081
+  }
+}
